@@ -1,5 +1,7 @@
 # json-stable-stringify
 
+This is the same as https://github.com/substack/json-stable-stringify but it doesn't depend on libraries without licenses (jsonify).
+
 deterministic version of `JSON.stringify()` so you can get a consistent hash
 from stringified results
 
